@@ -6,9 +6,9 @@ namespace App3
     {
         static void Main(string[] args)
         {
-            float num1 = 52.24F;
-            double num2 = 52.24;
-            decimal num3 = 52.54M;
+            float num1 = 25.85F;
+            double num2 = 25.85;
+            decimal num3 = 25.85M;
             Console.WriteLine("{0} {1} {2} ", num1, num2, num3);
         }
     }
