@@ -6,13 +6,13 @@ namespace app2
     {
         static void Main(string[] args)
         {
-            //Declaración de variables 
-            string firstname = "Carlos";
-            String Lastname = "Gomez";
+            int num1 = 9;
+            int num2 = 17;
+            var suma = num1 + num2;
             int edad = 19;
-            //Concatenación de variables 
-            var name = firstname + " " + Lastname;
-            //Imprimir de variables dentro de texto 
+            string name = "Carlos";
+
+            Console.WriteLine(suma);
             Console.WriteLine("Su nombre es: {0} y su edad es {1}", name, edad);
         }
     }
