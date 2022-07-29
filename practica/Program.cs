@@ -8,7 +8,7 @@ namespace practica
         {
             //declaracion de variables 
             int num1 = 5;
-            int num2 = 19;
+            int num2 = 1;
             var total = num1 + num2;
 
             string name = "Carlos";
