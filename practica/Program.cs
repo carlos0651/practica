@@ -7,7 +7,7 @@ namespace practica
         static void Main(string[] args)
         {
             //declaracion de variables 
-            int num1 = 56;
+            int num1 = 5;
             int num2 = 19;
             var total = num1 + num2;
 
